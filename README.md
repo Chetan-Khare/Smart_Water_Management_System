@@ -1,5 +1,3 @@
-# Smart_Water_Management_System
-C-DAC Project
 # **Smart Water Management System**
 
 ## **Overview**
