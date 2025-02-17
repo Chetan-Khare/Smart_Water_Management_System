@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 ## **Contact**
 - 📧 **Email:** ckhare55@gmail.com  
 
-- 🐙 **GitHub:** [YourUsername](https://github.com/Chetan-Khare)  
+- 🐙 **GitHub:** [Chetan_Khare](https://github.com/Chetan-Khare)  
 
